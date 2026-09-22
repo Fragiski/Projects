@@ -9,11 +9,11 @@ In-depth research analyzing the SolarWinds Orion supply chain compromise, mappin
 
 https://github.com/Fragiski/SolarWinds-Threat-Analysis
 
-## 🎮 Action Platformer Game (C++)
-Repo: **C-game**
-A 2D platform game built in C++ using the SGG library, featuring level progression, AABB collision detection, enemy hazards, and a health system.
+## 🤖 Machine Learning (Python)
+Repo: **Machine-Learning**
+A collection of machine learning projects, including a Sokoban solver and text-image classification analysis.
 
-https://github.com/Fragiski/C-game
+https://github.com/Fragiski/Machine-Learning
 
 ## 🎰 Distributed Betting System (Java)
 Repo: **Distributed-Betting-System**
@@ -27,8 +27,8 @@ A distributed system implementing automated auctions using threads.
 
 https://github.com/Fragiski/Distributed-Auction-System
 
-## 🤖 Machine Learning (Python)
-Repo: **Machine-Learning**
-A collection of machine learning projects, including a Sokoban solver and text-image classification analysis.
+## 🎮 Action Platformer Game (C++)
+Repo: **C-game**
+A 2D platform game built in C++ using the SGG library, featuring level progression, AABB collision detection, enemy hazards, and a health system.
 
-https://github.com/Fragiski/Machine-Learning
+https://github.com/Fragiski/C-game
