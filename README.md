@@ -32,3 +32,9 @@ Repo: **C-game**
 A 2D platform game built in C++ using the SGG library, featuring level progression, AABB collision detection, enemy hazards, and a health system.
 
 https://github.com/Fragiski/C-game
+
+## 🍕 Pizza Order System (C)
+Repo: **Pizza-Order-System**
+A multithreaded pizza ordering system simulating a pizzeria's operations, using POSIX threads, mutexes, and condition variables to synchronize access to shared resources.
+
+https://github.com/Fragiski/Pizza-Order-System
